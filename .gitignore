@@ -1,8 +1,2 @@
-# Disallow all
-*
-
-# Allow
-!README.md
-!.gitignore
-!Volume-*
-!*.hs
+/*/*
+!*.h
